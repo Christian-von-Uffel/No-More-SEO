@@ -12,7 +12,9 @@
         "*://*.twitter.com/*",
         "*://*.amazon.com/*",
         "*://*.github.com/*",
-        "*://*.figma.com/*"
+        "*://*.figma.com/*",
+        "*://*.youtube.com/*",
+        "*://*.quora.com/*"
       ],
       "js": [
         "content.js"
